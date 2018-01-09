@@ -1,2 +1,2 @@
-document.body.innerHTML = '<h1>HI</h1>';
+$('body').append('<h1>HI</h1>');
 console.log('im saying hi');

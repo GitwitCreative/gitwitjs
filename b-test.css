@@ -3,6 +3,6 @@ h1 {
   top: 100px;
   left: 100px;
   padding: 40px;
-  background-color: red;
+  background-color: blue;
   z-index: 1000;
 }

@@ -6,3 +6,6 @@ h1 {
   background-color: blue;
   z-index: 1000;
 }
+.yellow {
+  background-color: yellow; 
+}
